@@ -32,6 +32,6 @@
 
 - 📫 How to reach me  [`Whatsapp`](https://wa.me/6285876330812?text=halo+bang)
 
-- ⚡ My hobby is watching anime
+- ⚡ My hobby is ngocok pler
 
 ![https://github-readme-stats.vercel.app/api?username=DappaUhuy&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e](https://github-readme-stats.vercel.app/api?username=DikaArdnt&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e)
